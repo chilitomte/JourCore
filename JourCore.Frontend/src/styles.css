@@ -1,0 +1,33 @@
+.center {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 1rem;
+}
+
+.navigation-menu {
+  list-style-type: none;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.links {
+  
+}
+
+.link {
+  font-size: 125%;
+  padding: 1em;
+}
+
+.active {
+  font-weight: bold;
+}
